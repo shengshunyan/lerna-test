@@ -1,5 +1,5 @@
 {
-  "name": "two",
+  "name": "@shengshunyan/two",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "shengshunyan <shengshunyan@joyy.com>",
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "adbb08eea0eae58a63b0968b01a015d253699bb2"
 }

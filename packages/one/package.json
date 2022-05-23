@@ -1,5 +1,5 @@
 {
-  "name": "one",
+  "name": "@shengshunyan/one",
   "version": "0.0.1",
   "description": "test package",
   "author": "shengshunyan <shengshunyan@joyy.com>",
@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "classnames": "^2.2.6"
-  }
+  },
+  "gitHead": "adbb08eea0eae58a63b0968b01a015d253699bb2"
 }
