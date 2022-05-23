@@ -1,0 +1,22 @@
+{
+  "name": "one",
+  "version": "0.0.0",
+  "description": "test package",
+  "author": "shengshunyan <shengshunyan@joyy.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/one.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6"
+  }
+}
