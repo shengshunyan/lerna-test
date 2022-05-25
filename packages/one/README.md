@@ -7,7 +7,7 @@
 ```
 const one = require('one');
 
-// one just one11111111
+// one just one1111
 
 // TODO: DEMONSTRATE API
 ```

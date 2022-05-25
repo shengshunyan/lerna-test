@@ -7,7 +7,7 @@
 ```
 const two = require('two');
 
-<!-- tow -->22211
+<!-- tow -->2221122
 
 // TODO: DEMONSTRATE API
 ```
