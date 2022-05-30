@@ -4,5 +4,6 @@
   ],
   "version": "independent",
   "useWorkspaces": true,
-  "npmClient": "yarn"
+  "npmClient": "yarn",
+  "changelogPreset": "angular" 
 }
